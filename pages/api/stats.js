@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
-const response = [
+const response = {results: [
   {
     _id: "5e7274124ef1b44ba9b5ca56",
     start_time: 1533121141000,
@@ -470,7 +470,7 @@ const response = [
     avg_step_frequency: 0,
     __v: 0,
   },
-];
+]};
 
 
 
